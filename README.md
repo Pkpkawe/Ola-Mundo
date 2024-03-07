@@ -3,4 +3,4 @@
 
  Repertório criado após assistir a aula do Curso em Vídeo!
 
-Primeiro versionamento realizado com sucesso!!
+ Primeiro versionamento realizado com sucesso!!
