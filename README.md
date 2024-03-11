@@ -1,6 +1,7 @@
 # Olá, Mundo!
- Primeiro repositório com Git e GitHUb.
-
- Repertório criado após assistir a aula do Curso em Vídeo!
-
- Primeiro versionamento realizado com sucesso!!
+**Primeiro repositório com __Git__ e __GitHUB.__**
+***
+- [x] Aprender a usar Git e GitHUB
+- [x] Aprender a usar Markdown
+***
+[Acesse meu GitHUB](https://github.com/Pkpkawe)
